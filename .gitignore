@@ -1,0 +1,12 @@
+# Konfigurasi lokal (berisi password database)
+config/database.local.php
+.env
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# File sementara
+*.log
