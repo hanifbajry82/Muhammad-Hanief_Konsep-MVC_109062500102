@@ -61,4 +61,12 @@ test memakai transaksi lalu rollback).
 Lihat tahapan pengembangan dengan:
 `git log --oneline --graph --decorate`
 
-(Tempel hasil `git log --oneline` milik Anda di sini.)
+5969ba5 (HEAD -> main, origin/main) docs: add installation and MVC documentation
+cf2b2ed test: add automated validator and model tests
+1c94d3d feat: add views and stylesheet
+0a86480 feat: add controller and front controller routing
+b24e18d feat: add validator, CSRF, flash and escaping helpers
+e7c1f2d feat: add MataKuliah model with prepared statements
+b435357 feat: add PDO database connection
+0478932 feat: add mata_kuliah schema and seed data
+d7d437b chore: initialize project with gitignore
